@@ -3,6 +3,3 @@ Trigger:
 
 pool:
   vmImage: 'ubuntu-latest'
-
-variables:
-  buildConfiguration: 'Release'
