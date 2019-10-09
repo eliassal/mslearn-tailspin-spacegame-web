@@ -8,6 +8,7 @@ using TailSpin.SpaceGame.Web.Models;
 
 namespace TailSpin.SpaceGame.Web
 {
+    // test new git
     public class Startup
     {
         public Startup(IConfiguration configuration)
