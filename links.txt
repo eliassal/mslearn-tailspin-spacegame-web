@@ -1,0 +1,4 @@
+ Create a build pipeline with Azure Pipelines
+ https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/
+https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/7-publish-build-result
+https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/8-build-multiple-configurations
